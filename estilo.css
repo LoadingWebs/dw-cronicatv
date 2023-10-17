@@ -1,0 +1,16 @@
+*{margin: 0;
+padding: 0;}
+
+
+.cronica_tv{
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    font-size: 100px;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+
+}
